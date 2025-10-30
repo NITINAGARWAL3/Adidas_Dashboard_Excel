@@ -1,41 +1,69 @@
 # Analyzing Adidas_Dashboard_Excel
 # Excel Project (Adidas Sales) 
-**Project Overview** 
+**Project Overview**:
+
 This project uses the Adidas Sales Dataset to perform a comprehensive sales performance analysis for Adidas products across different regions and retailers. 
+
 The main goal is to uncover sales patterns, identify high-performing products and locations, and create an interactive Excel dashboard for business decision-making.
 
 
-**Dataset Description**
+**Dataset Description**:
+
 The dataset contains detailed transactional data including:
+
 •	Retailer Information: Retailer, Retailer ID, Region, and State
+
 •	Product Information: Product, Product Category, and Units Sold
+
 •	Sales Metrics: Total Sales, Operating Profit, Price per Unit, Gross Sales
+
 •	Temporal Data: Year, Month, and Date of Order
   
  
-**Business Objectives**
+**Business Objectives**:
+
 The primary objectives of this project are:
+
 •	Analyse Adidas sales performance across regions and retailers.
+
 •	Identify top-performing products and their contribution to revenue.
+
 •	Measure profitability by product and region.
+
 •	Understand sales seasonality and time-based trends.
+
 •	Develop a dynamic dashboard for quick management insights
+
+
   
-**Business Questions**
-Sales & Profit Performance
+**Business Questions**:
+
+***Sales & Profit Performance***
+
 •	Which region generates the highest sales and profit?
+
 •	How do sales trends change monthly or yearly?
+
 •	Which retailers contribute most to Adidas revenue?
-Product Analysis
+***Product Analysis***
+
 •	Which products or product categories drive the highest sales?
+
 •	Which items deliver the best profit margins?
+
 •	Are there any underperforming products that impact total profit?
 Retail & Market Insights
+
 •	Which retailer performs best across all regions?
+
 •	How do regional preferences affect product sales?
-•	What is the average price per unit by region or product category?
-Operational Insights
+
+•	What is the average price per unit by region or product category? 
+
+***Operational Insights***
+
 •	How does the number of units sold correlate with profit?
+
 •	Which regions or retailers maintain the best profit-to-sales ratio?
   
 **Tools & Techniques** 
