@@ -83,16 +83,25 @@ Deliverables :
  
   
  **Insights** :
+ 
 •	Foot Locker and Sports Direct are the top-performing retailers, driving maximum revenue and profit.
+
 •	Men’s Apparel and Men’s Athletic Footwear are the most profitable product categories.
+
 •	Sales peaks during mid-year months (June–September), indicating strong seasonal and promotional demand.
+
 •	In-store and Outlet channels contribute over 70% of total sales, showing dominance of offline retail.
+
 •	South region records the highest sales (≈ $46 M), followed by the West and Midwest regions. 
   
 **Future Enhancements**:
+
 •	Integrate year-over-year comparison visuals.
+
 •	Include forecast analysis using Excel trendlines or Power BI.
+
 •	Automate report refresh using Power Query connections.
+
 •	Expand to global Adidas data for broader insights.
  
 
